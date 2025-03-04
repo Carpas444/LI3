@@ -1,7 +1,7 @@
 # Laboratórios de Informática III (2024/2025)
-* Para correr o programa, deve entrar na pasta *trabalho-pratico* e, posteriormente, correr o comando "**make**" no terminal.  
+* Para compilar o projeto deve entrar na pasta *trabalho-pratico* e, posteriormente, correr o comando "**make**" no terminal.  
 
-* Após a execução deste comando, pode experimentar as diferentes queries usando, para o efeito, o dataset fornecido na pasta (PREENCHER!!!!!!!!!!!)
+* Após a execução deste comando, pode experimentar as diferentes queries usando, para o efeito, o dataset que terá de ser fornecido por mim, caso queira realmente experimentar o programa, visto que os ficheiros têm um tamaho superior ao permitido pelo GitHub.
 
 * Para entender como devem ser executadas as diferentes queries e respetivos argumentos, deve ver o enunicado - *enunciado.pdf*.
 
