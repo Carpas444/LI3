@@ -7,4 +7,6 @@
 
 * Projeto realizado por:  
   - Afonso Dinis Cerqueira Carpinteiro - Carpas444  
-  - Bruno Daniel Lima Carvalho - 2004bdlc
+  - Bruno Daniel Lima Carvalho - 2004bdlc  
+
+**Nota Final: 18/20**
